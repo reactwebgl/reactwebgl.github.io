@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb6da3ec.chunk.css",
+    "main.js": "/static/js/main.db738d9d.chunk.js",
+    "main.js.map": "/static/js/main.db738d9d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18294a5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18294a5f.js.map",
+    "static/js/2.29c85c6c.chunk.js": "/static/js/2.29c85c6c.chunk.js",
+    "static/js/2.29c85c6c.chunk.js.map": "/static/js/2.29c85c6c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7ba21592f1ac662db3d32a07b607c185.js": "/precache-manifest.7ba21592f1ac662db3d32a07b607c185.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bb6da3ec.chunk.css.map": "/static/css/main.bb6da3ec.chunk.css.map",
+    "static/js/2.29c85c6c.chunk.js.LICENSE.txt": "/static/js/2.29c85c6c.chunk.js.LICENSE.txt",
+    "static/media/Sphere512.png": "/static/media/Sphere512.5e2a26d1.png",
+    "static/media/checkWhite.svg": "/static/media/checkWhite.f1a8f733.svg",
+    "static/media/checked.svg": "/static/media/checked.33500f11.svg",
+    "static/media/down.svg": "/static/media/down.ca82bc74.svg",
+    "static/media/event.svg": "/static/media/event.51f82a79.svg",
+    "static/media/fracture.svg": "/static/media/fracture.27fa1f2d.svg",
+    "static/media/geophone.svg": "/static/media/geophone.246118d2.svg",
+    "static/media/home01.png": "/static/media/home01.be35c354.png",
+    "static/media/home02.png": "/static/media/home02.195b60f7.png",
+    "static/media/home03.png": "/static/media/home03.1a08c8dd.png",
+    "static/media/home04.png": "/static/media/home04.a3ceb2f8.png",
+    "static/media/las.svg": "/static/media/las.663cfbdb.svg",
+    "static/media/perf.svg": "/static/media/perf.364446a7.svg",
+    "static/media/project.svg": "/static/media/project.8194860f.svg",
+    "static/media/pushpin.svg": "/static/media/pushpin.c55712b8.svg",
+    "static/media/pushpin2.svg": "/static/media/pushpin2.85273010.svg",
+    "static/media/right.svg": "/static/media/right.cb750aef.svg",
+    "static/media/wellbore.svg": "/static/media/wellbore.23950b86.svg",
+    "static/media/wellflag.svg": "/static/media/wellflag.709ca952.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18294a5f.js",
+    "static/js/2.29c85c6c.chunk.js",
+    "static/css/main.bb6da3ec.chunk.css",
+    "static/js/main.db738d9d.chunk.js"
+  ]
+}
